@@ -1,1 +1,4 @@
-cat /opt/backup.sh
+> cat /opt/backup.sh
+> /usr/bin/gzip -d -c /backup/secrets_1739291700.json.gz 
+
+1739291700 correspond au timestamp lors de la création du backup (voir logs)
