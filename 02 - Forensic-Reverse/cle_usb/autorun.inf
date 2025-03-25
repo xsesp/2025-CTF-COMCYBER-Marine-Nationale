@@ -1,0 +1,4 @@
+[autorun]
+open=VPNUpdater.exe
+action=Run update
+icon=icon.ico
